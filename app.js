@@ -57,3 +57,4 @@ app.post('/pay', async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
+// Updated logic for modern Node.js runtime
