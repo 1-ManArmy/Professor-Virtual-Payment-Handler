@@ -58,3 +58,4 @@ app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
 // Updated logic for modern Node.js runtime
+// v1.1.0: Logging added for OS compatibility init
