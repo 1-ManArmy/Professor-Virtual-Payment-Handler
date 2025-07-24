@@ -59,3 +59,4 @@ app.listen(PORT, () => {
 });
 // Updated logic for modern Node.js runtime
 // v1.1.0: Logging added for OS compatibility init
+console.log('Running in environment:', process.env.NODE_ENV);
